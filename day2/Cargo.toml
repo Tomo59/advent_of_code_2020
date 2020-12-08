@@ -1,0 +1,8 @@
+[package]
+name = "advent-of-code-2020-day2"
+version = "0.1.0"
+authors = ["Thomas Gambier"]
+edition = "2018"
+
+[dependencies]
+regex = "1.4.2"
